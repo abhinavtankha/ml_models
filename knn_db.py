@@ -90,8 +90,3 @@ plt.xlabel('Training Set Size')
 plt.ylabel('Accuracy')
 plt.legend(loc=3,bbox_to_anchor=(1,0))
 plt.show()
-# Note: 
-# With SMOTE getting a accuracy score of 0.7598425196850394
-# With SMOTE + MinMaxScaler accuracy score of 0.7125984251968503
-# Discarding both
-# Number of CV samples have to between [0, 342].. and more than 15 else the number of neighbours is a problem.

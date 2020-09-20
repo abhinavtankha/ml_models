@@ -1,7 +1,3 @@
-#Neural Network
-
-#DataSet: https://www.kaggle.com/uciml/pima-indians-diabetes-database
-
 import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt
@@ -150,8 +146,6 @@ plt.show()
 # Try few of the populate decision tree algorithms c4.5, c5.0, CART and Random Forests.
 # 6. Try penalized models - penalized-SVM and penalized-LDA.,  CostSensitiveClassifier
 # Read more about unbalanced dataset in quora.
-
-
 
 
 #17.09 NOtes

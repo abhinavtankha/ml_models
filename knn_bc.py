@@ -1,6 +1,6 @@
-#knn
-#reference doc - https://towardsdatascience.com/knn-using-scikit-learn-c6bed765be75
-#knn documentation - https://scikit-learn.org/stable/modules/neighbors.html
+#Code References -
+#Skikit doc - https://towardsdatascience.com/knn-using-scikit-learn-c6bed765be75
+#KNN documentation - https://scikit-learn.org/stable/modules/neighbors.html
 
 
 from sklearn.ensemble import AdaBoostClassifier

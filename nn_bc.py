@@ -1,5 +1,4 @@
-#Neural Network
-
+#Code References-
 #DataSet: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 import pandas as pd

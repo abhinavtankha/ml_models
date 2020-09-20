@@ -1,6 +1,5 @@
 # code reference - https://towardsdatascience.com/support-vector-machine-mnist-digit-classification-with-python-including-my-hand-written-digits-83d6eca7004a
 
-
 import math, time 
 import matplotlib.pyplot as plt
 import numpy as np 

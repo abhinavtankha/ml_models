@@ -1,5 +1,3 @@
-# decision trees tend to overfit a lot. 2 ways to reduce overfitting. 1. pruning and random forests.
-
 import numpy as np
 import matplotlib.pyplot as plt 
 import pandas as pd
@@ -116,9 +114,3 @@ plt.xlabel('Training Set Size')
 plt.ylabel('Accuracy')
 plt.legend(loc=3,bbox_to_anchor=(1,0))
 plt.show()
-
-#Notes
-# 1. get the pruning working through a GridCV, max depth field esp
-# 2. get the visualization working.
-# 3. get the GridCV working.
-

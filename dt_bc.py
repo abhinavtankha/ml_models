@@ -1,6 +1,3 @@
-# decision trees tend to overfit a lot. 2 ways to reduce overfitting. 1. pruning and random forests.
-
-
 import numpy as np
 import matplotlib.pyplot as plt 
 import pandas as pd

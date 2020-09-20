@@ -1,8 +1,3 @@
-# https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
-# Feature Selection Tactics - https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e
-# code for adabooster with concept - https://towardsdatascience.com/machine-learning-part-17-boosting-algorithms-adaboost-in-python-d00faac6c464
-
-
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.datasets import load_breast_cancer
@@ -72,31 +67,3 @@ print(confusion_matrix(test_y,predict_test))
 print(classification_report(test_y,predict_test))
 
 print('Accuracy is {}'.format(accuracy_score(test_y,predict_test)))
-
-
-
-
-#print(confusion_matrix(test_y, predictions))
-
-
-# [[269   0]
-#  [  0 157]]
-#               precision    recall  f1-score   support
-
-#            0       1.00      1.00      1.00       269
-#            1       1.00      1.00      1.00       157
-
-#     accuracy                           1.00       426
-#    macro avg       1.00      1.00      1.00       426
-# weighted avg       1.00      1.00      1.00       426
-
-# [[84  4]
-#  [ 9 46]]
-#               precision    recall  f1-score   support
-
-#            0       0.90      0.95      0.93        88
-#            1       0.92      0.84      0.88        55
-
-#     accuracy                           0.91       143
-#    macro avg       0.91      0.90      0.90       143
-# weighted avg       0.91      0.91      0.91       143
