@@ -1,5 +1,7 @@
 Note:
+
 i. All implementation files can be found at - https://github.com/abhinavtankha/ml_models. The repo is public.
+
 ii. The implementation files are in python3.
 
 Steps to fetch and run the code.
@@ -13,6 +15,7 @@ List of pip dependencies
 3. execute code in python3
 
 Below are the files in the github repo and their purpose -
+
 0. feature_selection_bc.py - Feature Selection Code(using SelectKBest) for Breast Cancer DataSet.
 1. nn_db.py - Neural Network for Diabetes DataSet
 2. nn_bc.py - Neural Network for Breast Cancer DataSet
