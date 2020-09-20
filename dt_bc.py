@@ -13,7 +13,6 @@ from sklearn import tree
 from sklearn.tree import export_graphviz
 import graphviz
 from sklearn.model_selection import GridSearchCV
-from io import StringIO 
 import pydotplus
 from imblearn.over_sampling import SMOTE
 from sklearn.preprocessing import MinMaxScaler

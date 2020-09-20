@@ -8,7 +8,13 @@ Steps to fetch and run the code.
 2. Download the Breast Cancer DataSet from https://www.kaggle.com/uciml/breast-cancer-wisconsin-data and rename the file as 'bcancer.csv'.
 3. Download the Diabetes DataSet from https://www.kaggle.com/uciml/pima-indians-diabetes-database and rename the file as 'diabetes.csv'.
 2. pip install all package dependencies
-List of pip dependencies
+List of pip dependencies - numpy
+pandas
+sklearn
+imblearn
+pydotplus
+graphviz
+matplotlib
 
 3. execute code in python3
 

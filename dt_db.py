@@ -14,8 +14,6 @@ from imblearn.over_sampling import SMOTE
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import accuracy_score
 from sklearn.tree import export_graphviz
-from io import StringIO 
-import pydotplus
 from sklearn.model_selection import learning_curve
 
 df = pd.read_csv('diabetes.csv') 
