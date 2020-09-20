@@ -1,5 +1,3 @@
-# ml_models
-
 Note:
 i. All implementation files can be found at - https://github.com/abhinavtankha/ml_models. The repo is public.
 ii. The implementation files are in python3.
