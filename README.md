@@ -5,8 +5,7 @@ Note:
 Steps to fetch and run the code.
 1. Clone the repository - https://github.com/abhinavtankha/ml_models
 2. cd ml_models/
-2. Download the Breast Cancer DataSet from https://www.kaggle.com/uciml/breast-cancer-wisconsin-data and rename the file as 'bcancer.csv'.
-3. Download the Diabetes DataSet from https://www.kaggle.com/uciml/pima-indians-diabetes-database and rename the file as 'diabetes.csv'.
+2. The data set files are present in the folder - bcancer.csv and diabetes.csv
 2. pip install all package dependencies
 List of pip dependencies - numpy
 pandas
